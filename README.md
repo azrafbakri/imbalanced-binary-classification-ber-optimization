@@ -26,7 +26,3 @@ End-to-end workflow for **imbalanced binary classification**, selecting and tuni
 If an unlabeled dataset is provided, the notebook writes:
 - `predictions.csv` with `index` and `predicted_class`
 
-## Notes
-- The notebook is written to be reusable: update file paths at the top of the **Data Loading** section.
-# imbalanced-binary-classification-ber-optimization
-# imbalanced-binary-classification-ber-optimization
